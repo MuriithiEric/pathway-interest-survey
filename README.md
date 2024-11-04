@@ -1,9 +1,9 @@
-# 🌟 Software Development Program Evaluation Projects
+# 🌟 PLP Program Evaluation
 
 ---
 
 ## 📋 Overview
-This repository contains three practical projects designed to evaluate learners' proficiency in web development, Python/Django programming, and mobile development using Flutter. Each project focuses on building real-world applications to showcase hands-on skills in working with SQL databases, external APIs, and modern frameworks.
+This repository contains three practical projects designed to evaluate your proficiency in web development, Python/Django programming, and mobile development using Flutter. Each project focuses on building real-world applications to showcase hands-on skills in working with SQL databases, external APIs, and modern frameworks. Please build a product in either one of the tech stacks. Please complete this within 4 days and submit here - https://forms.gle/xSsubS5bCNDDLBBr5
 
 ---
 
@@ -75,6 +75,7 @@ This project is licensed under the MIT License.
 
 ---
 
-## 🔎 **Summary**
+## 🔎 **Submission Form**
 
-This repository provides hands-on projects for evaluating and building proficiency in key areas of software development. Each project allows learners to demonstrate their ability to create web applications with SQL backends, integrate external APIs using Python/Django, or develop mobile apps with Flutter. The practical, real-world approach ensures that learners can showcase their problem-solving abilities and technical knowledge in full-stack development.
+https://forms.gle/xSsubS5bCNDDLBBr5
+
